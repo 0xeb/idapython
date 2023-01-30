@@ -1,4 +1,7 @@
 # IDAPython
+
+This is the unofficial IDAPython repo here. We will try to maintain compatbility with the official IDAPython, but can't promise that. This repo will contain bleeding edge changes, fixes and what not that may or may not be merged into the official repo.
+
 ## Python plugin for Interactive Disassembler
 
 IDAPython is an IDA plugin which makes it possible to write scripts
